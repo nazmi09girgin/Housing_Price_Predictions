@@ -8,7 +8,7 @@ This project aims to develop a model that predicts house prices. Here are the ma
 2. **Data Cleaning and Preprocessing:**
    - Checking for missing values and filling them appropriately if found.
    - Dropping unnecessary columns (Bedroom2).
-   - Filling missing values in some numerical columns with their mean.
+   - Filling missing values in some numerical columns with their median.
    - Converting the "YearBuilt" column to an integer.
 
 3. **Data Analysis and Visualization:**
